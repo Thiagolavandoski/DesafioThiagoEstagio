@@ -1,6 +1,6 @@
 # DesafioThiagoEstagio
 
-Projeto desenvolvido em C# cosole aplication (.NET core)
+Projeto desenvolvido em C# console aplication (.NET core)
 
 Para executar aplicativo é necessario instalar a biblioteca google sheet no nuget package
 
